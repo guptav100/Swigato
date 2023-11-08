@@ -29,8 +29,8 @@ export const Github_API_User = "https://api.github.com/users/";
 
 // Social Media Links
 export const Linkedin_Link = "https://www.linkedin.com/in/vishal-gupta-61238b169/";
-export const Twitter_Link = "https://twitter.com/ChetanNada";
-export const Github_Link = "https://github.com/chetannada";
+export const Twitter_Link = "";
+export const Github_Link = "https://github.com/guptav100";
 export const Email_Link = "mailto:vishalgupta24092@gmail.com";
 
 // Github Authorization Token
